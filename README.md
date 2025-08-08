@@ -1,1 +1,2 @@
-# Cool-Code
+# Cool-codes
+It contains cool codes developed by Arfat Kadvekar
